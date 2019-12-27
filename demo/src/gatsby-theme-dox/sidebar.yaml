@@ -1,10 +1,20 @@
-title: Dox
+title: Menu
 items:
-  - title: Getting Started
-    link: /
-  - title: Customization
-    link: /customization/
-  - title: MDX Components
-    link: /mdx-components/
-  - title: Navigation
+  - title: Profile
     link: /navigation/
+  - title: Blog
+    link: /navigation/
+  - title: Portfolio
+    link: /navigation/
+  - title: Likes
+    link: /likes/
+  - title: Tools
+    items:
+      - title: Cron Generator
+        link: /navigation/
+      - title: Markdown Template
+        link: /navigation/
+      - title: Color Pallete
+        link: /navigation/
+      - title: Randomizer
+        link: /navigation/
